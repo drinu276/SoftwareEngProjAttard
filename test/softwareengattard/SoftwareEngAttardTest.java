@@ -54,7 +54,7 @@ public class SoftwareEngAttardTest {
     public void testRetNum2() {
         System.out.println("retNum");
         SoftwareEngAttard instance = new SoftwareEngAttard();
-        int expResult = 5;
+        int expResult = 0;
         int result = instance.retNum();
         assertEquals(expResult, result);
     }
