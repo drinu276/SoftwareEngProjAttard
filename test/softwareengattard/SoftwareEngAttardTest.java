@@ -50,13 +50,4 @@ public class SoftwareEngAttardTest {
         assertEquals(expResult, result);
     }
     
-    @Test
-    public void testRetNum2() {
-        System.out.println("retNum");
-        SoftwareEngAttard instance = new SoftwareEngAttard();
-        int expResult = 0;
-        int result = instance.retNum();
-        assertEquals(expResult, result);
-    }
-    
 }
