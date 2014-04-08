@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Andrea-Laptop" name="softwareengattard.SoftwareEngAttardTest" skipped="0" tests="3" time="0.074" timestamp="2014-04-08T12:24:26">
+<testsuite errors="0" failures="0" hostname="Andrea-Laptop" name="softwareengattard.SoftwareEngAttardTest" skipped="0" tests="2" time="0.068" timestamp="2014-04-08T12:33:46">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="GB" />
@@ -59,7 +59,7 @@
     <property name="libs.j2me_common_ant.maven-pom" value="" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner softwareengattard.SoftwareEngAttardTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\build\test\results\TEST-softwareengattard.SoftwareEngAttardTest.xml crashfile=C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\build\junitvmwatcher176554551449825869.properties propsfile=C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\build\junit6010214742938094490.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner softwareengattard.SoftwareEngAttardTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\build\test\results\TEST-softwareengattard.SoftwareEngAttardTest.xml crashfile=C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\build\junitvmwatcher8521193748767916611.properties propsfile=C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\build\junit7932543478967818508.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="build.sysclasspath" value="ignore" />
@@ -243,6 +243,7 @@
     <property name="libs.DataBindingME-SVG.src" value="C:\Program Files\NetBeans 8.0\mobility\sources\netbeans_databindingme_svg-src.zip" />
     <property name="dist.jar" value="dist/SoftwareEngAttard.jar" />
     <property name="libs.spring-framework400.maven-pom" value="" />
+    <property name="netbeans.automatic.build" value="true" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="ant.project.name" value="SoftwareEngAttard" />
     <property name="netbeans.hash.code" value="unique=NB_CND_EXTIDE_GFMOD_GROOVY_JAVA_JC_MOB_PHP_WEBCOMMON_WEBEE0daa5720a-c60b-4395-be9d-08a70802688e_a32b0d38-8d24-448b-9846-370f57cb2c48" />
@@ -295,12 +296,12 @@
     <property name="libs.swing-layout.classpath" value="C:\Program Files\NetBeans 8.0\platform\modules\ext\swing-layout-1.0.4.jar" />
     <property name="libs.javaee-web-api-7.0.maven-pom" value="" />
     <property name="libs.restlib.src" value="" />
-    <property name="javac.source" value="1.7" />
     <property name="build.generated.dir" value="build/generated" />
+    <property name="javac.source" value="1.7" />
     <property name="line.separator" value="&#xd;&#xa;" />
     <property name="java.specification.version" value="1.7" />
-    <property name="libs.jaxws21.maven-pom" value="" />
     <property name="java.vm.info" value="mixed mode" />
+    <property name="libs.jaxws21.maven-pom" value="" />
     <property name="nb.junit.batch" value="true" />
     <property name="junit.forkmode" value="perTest" />
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_45\jre\classes" />
@@ -308,13 +309,13 @@
     <property name="built-jar.properties" value="C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\build\built-jar.properties" />
     <property name="build.test.classes.dir" value="build/test/classes" />
     <property name="src.dir" value="src" />
-    <property name="sun.awt.keepWorkingSetOnMinimize" value="true" />
-    <property name="libs.jpa2-persistence.src" value="" />
     <property name="annotation.processing.enabled" value="true" />
+    <property name="libs.jpa2-persistence.src" value="" />
+    <property name="sun.awt.keepWorkingSetOnMinimize" value="true" />
     <property name="libs.jsf20.src" value="" />
     <property name="libs.jpa20-persistence.src" value="" />
-    <property name="libs.jsf12.src" value="" />
     <property name="libs.DataBindingME-SVG.maven-pom" value="" />
+    <property name="libs.jsf12.src" value="" />
     <property name="libs.struts.javadoc" value="C:\Program Files\NetBeans 8.0\enterprise\docs\struts-1.3.10-javadoc.zip" />
     <property name="ignore.failing.tests" value="true" />
     <property name="libs.javaee-web-api-7.0.src" value="" />
@@ -330,8 +331,8 @@
     <property name="libs.MySQLDriver.src" value="" />
     <property name="sun.jnu.encoding" value="Cp1252" />
     <property name="ant.file.SoftwareEngAttard-impl" value="C:\Users\Andrea\Documents\NetBeansProjects\GitHubSoftwareEng\SoftwareEngAttard\nbproject\build-impl.xml" />
-    <property name="build.test.results.dir" value="build/test/results" />
     <property name="java.runtime.version" value="1.7.0_45-b18" />
+    <property name="build.test.results.dir" value="build/test/results" />
     <property name="default.javac.target" value="1.7" />
     <property name="libs.junit_4.classpath" value="C:\Program Files\NetBeans 8.0\platform\modules\ext\junit-4.10.jar" />
     <property name="user.timezone" value="" />
@@ -339,15 +340,15 @@
     <property name="do.jar" value="true" />
     <property name="libs.javaee-endorsed-api-6.0.maven-pom" value="" />
     <property name="netbeans.dirs" value="C:\Program Files\NetBeans 8.0\nb;C:\Program Files\NetBeans 8.0\ergonomics;C:\Program Files\NetBeans 8.0\ide;C:\Program Files\NetBeans 8.0\extide;C:\Program Files\NetBeans 8.0\java;C:\Program Files\NetBeans 8.0\apisupport;C:\Program Files\NetBeans 8.0\webcommon;C:\Program Files\NetBeans 8.0\websvccommon;C:\Program Files\NetBeans 8.0\enterprise;C:\Program Files\NetBeans 8.0\mobility;C:\Program Files\NetBeans 8.0\profiler;C:\Program Files\NetBeans 8.0\python;C:\Program Files\NetBeans 8.0\php;C:\Program Files\NetBeans 8.0\identity;C:\Program Files\NetBeans 8.0\harness;C:\Program Files\NetBeans 8.0\cnd;C:\Program Files\NetBeans 8.0\dlight;C:\Program Files\NetBeans 8.0\groovy;C:\Program Files\NetBeans 8.0\extra;C:\Program Files\NetBeans 8.0\javacard;C:\Program Files\NetBeans 8.0\javafx" />
-    <property name="libs.jstl.javadoc" value="C:\Program Files\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
     <property name="libs.jsf20.javadoc" value="C:\Program Files\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
+    <property name="libs.jstl.javadoc" value="C:\Program Files\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
     <property name="libs.metro.src" value="" />
     <property name="endorsed.classpath" value="" />
     <property name="libs.absolutelayout.classpath" value="C:\Program Files\NetBeans 8.0\java\modules\ext\AbsoluteLayout.jar" />
     <property name="excludes" value="" />
-    <property name="libs.metro.classpath" value="C:\Program Files\NetBeans 8.0\ide\modules\ext\jaxb\activation.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-api.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra-api.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-rt.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-tools.jar" />
     <property name="libs.restlib.maven-pom" value="" />
+    <property name="libs.metro.classpath" value="C:\Program Files\NetBeans 8.0\ide\modules\ext\jaxb\activation.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-api.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra-api.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-rt.jar;C:\Program Files\NetBeans 8.0\enterprise\modules\ext\metro\webservices-tools.jar" />
     <property name="libs.jpa2-persistence.javadoc" value="" />
     <property name="libs.DataBindingME.javadoc" value="C:\Program Files\NetBeans 8.0\mobility\modules\docs\netbeans_databindingme-api.zip" />
     <property name="apple.laf.useScreenMenuBar" value="true" />
@@ -358,16 +359,16 @@
     <property name="os.version" value="6.2" />
     <property name="application.args" value="" />
     <property name="libs.javaee-api-7.0.maven-pom" value="" />
-    <property name="main.class.available" value="true" />
     <property name="sun.awt.enableExtraMouseButtons" value="true" />
+    <property name="main.class.available" value="true" />
     <property name="sun.desktop" value="windows" />
     <property name="libs.hibernate4-persistence.src" value="" />
     <property name="libs.hibernate4-support.maven-pom" value="" />
     <property name="libs.restlib.javadoc" value="" />
     <property name="libs.JAXB-ENDORSED.classpath" value="C:\Program Files\NetBeans 8.0\ide\modules\ext\jaxb\api\jaxb-api.jar" />
     <property name="nb.internal.action.name" value="test" />
-    <property name="libs.javaee-api-7.0.javadoc" value="C:\Program Files\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
     <property name="libs.eclipselink.classpath" value="C:\Program Files\NetBeans 8.0\java\modules\ext\eclipselink\eclipselink.jar;C:\Program Files\NetBeans 8.0\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar;C:\Program Files\NetBeans 8.0\java\modules\ext\eclipselink\org.eclipse.persistence.jpa.jpql_2.5.1.v20130918-f2b9fc5.jar" />
+    <property name="libs.javaee-api-7.0.javadoc" value="C:\Program Files\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
     <property name="libs.beans-binding.javadoc" value="C:\Program Files\NetBeans 8.0\java\docs\beansbinding-1.2.1-doc.zip" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
@@ -401,10 +402,8 @@
     <property name="libs.javaee-web-api-7.0.javadoc" value="C:\Program Files\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
   </properties>
   <testcase classname="softwareengattard.SoftwareEngAttardTest" name="testMain" time="0.002" />
-  <testcase classname="softwareengattard.SoftwareEngAttardTest" name="testRetNum2" time="0.0" />
-  <testcase classname="softwareengattard.SoftwareEngAttardTest" name="testRetNum" time="0.0" />
+  <testcase classname="softwareengattard.SoftwareEngAttardTest" name="testRetNum" time="0.001" />
   <system-out><![CDATA[main
-retNum
 retNum
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
