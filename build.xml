@@ -74,7 +74,7 @@
  <!-- directory that contains emma.jar and emma_ant.jar: -->
   <property name="emma.dir" value="${basedir}/../lib" />
 
-  <path id="emma.lib" >1
+  <path id="emma.lib" >
     <pathelement location="${emma.dir}/emma.jar" />
     <pathelement location="${emma.dir}/emma_ant.jar" />
   </path>
